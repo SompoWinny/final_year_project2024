@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">beansdeseasesdetector</string>
+    <string name="register_activity_label">Register</string>
+    <string name="login_activity_label">Login</string>
+    <string name="selected_picture_preview">Selected picture preview</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="treatment">Treatment</string>
+    <string name="disease_description">Disease Description</string>
+    <string name="disease_name">Disease Name</string>
+    <string name="update_information">Update Information</string>
+    <string name="if_you_have_an_account_please_log_in_if_not_please_register">If you have an account, please log in. If not, please register.</string>
+    <string name="welcome_to_bean_disease_detector">Welcome to Bean Disease Detector</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="normal_user">Normal User</string>
+    <string name="extension_officer">Extension Officer</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="todo">TODO</string>
+    <string name="update_password">Update Password</string>
+    <string name="new_password">New Password</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_beans_diseases_detector">Welcome to Beans Diseases Detector</string>
+</resources>
