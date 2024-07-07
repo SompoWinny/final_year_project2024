@@ -9,7 +9,7 @@ class DatabaseHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME
     companion object {
         private const val DATABASE_VERSION = 1
         private const val DATABASE_NAME = "UserDatabase.db"
-        private const val TABLE_USERS = "Users"
+        private const val TABLE_USERS = "User"
 
         private const val COLUMN_ID = "id"
         private const val COLUMN_EMAIL = "email"

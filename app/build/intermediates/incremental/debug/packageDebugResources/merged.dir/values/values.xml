@@ -17,13 +17,19 @@
     <string name="email">Email</string>
     <string name="extension_officer">Extension Officer</string>
     <string name="forgot_password">Forgot Password</string>
+    <string name="gcm_defaultSenderId" translatable="false">496123239287</string>
     <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUikWmcA6e-hf6RBPu77W8mh_d0a5g3MM</string>
+    <string name="google_app_id" translatable="false">1:496123239287:android:c8652a50b0d9bdaa4e1f72</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUikWmcA6e-hf6RBPu77W8mh_d0a5g3MM</string>
+    <string name="google_storage_bucket" translatable="false">bean-7ded7.appspot.com</string>
     <string name="if_you_have_an_account_please_log_in_if_not_please_register">If you have an account, please log in. If not, please register.</string>
     <string name="login">Login</string>
     <string name="login_activity_label">Login</string>
     <string name="new_password">New Password</string>
     <string name="normal_user">Normal User</string>
     <string name="password">Password</string>
+    <string name="project_id" translatable="false">bean-7ded7</string>
     <string name="register">Register</string>
     <string name="register_activity_label">Register</string>
     <string name="selected_picture_preview">Selected picture preview</string>

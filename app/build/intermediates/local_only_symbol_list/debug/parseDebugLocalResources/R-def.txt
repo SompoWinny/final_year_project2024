@@ -30,6 +30,7 @@ id et_password
 id et_username
 id getStartedButton
 id logoutButton
+id main
 id newPasswordEditText
 id passwordEditText
 id registerButton
@@ -49,6 +50,7 @@ id welcomeTextView
 layout activity_forgot_password
 layout activity_login
 layout activity_main
+layout activity_main2
 layout activity_register
 layout activity_update_info
 layout activity_upload_picture
@@ -62,13 +64,19 @@ string disease_name
 string email
 string extension_officer
 string forgot_password
+string gcm_defaultSenderId
 string get_started
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string if_you_have_an_account_please_log_in_if_not_please_register
 string login
 string login_activity_label
 string new_password
 string normal_user
 string password
+string project_id
 string register
 string register_activity_label
 string selected_picture_preview

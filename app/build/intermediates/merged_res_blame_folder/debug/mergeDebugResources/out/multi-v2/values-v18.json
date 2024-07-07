@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.beansdeseasesdetector.app-mergeDebugResources-48:/values-v18/values-v18.xml",
+            "outputFile": "com.example.beansdeseasesdetector.app-mergeDebugResources-65:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\WINNIE\\.gradle\\caches\\transforms-3\\6c73aed24d3950fe416dcfd88e9a596e\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Juann Benezeth\\.gradle\\caches\\transforms-3\\9dc92220cdab5b7a6e53450b893df743\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

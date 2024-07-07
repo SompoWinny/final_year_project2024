@@ -1,9 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.beansdeseasesdetector">
 
     <uses-permission android:name="android.permission.CAMERA" />
 
-    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
 
     <application
         android:allowBackup="true"
@@ -12,22 +15,26 @@
         android:roundIcon="@drawable/app_icon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name=".MainActivity" android:exported="true">
+        <activity
+            android:name=".MainActi"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity" android:exported="true"/>
-        <activity android:name=".ViewResultsActivity" />
-        <activity android:name=".ForgotPasswordActivity" />
-        <activity android:name=".UploadPictureActivity" />
-        <activity android:name=".UpdateInfoActivity" />
-
-        <!-- FileProvider configuration -->
+        <activity android:name=".RegisterActivity" android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity android:name=".ViewResultsActivity"  android:exported="false" />
+        <activity android:name=".ForgotPasswordActivity"  android:exported="false" />
+        <activity android:name=".UploadPictureActivity"   android:exported="false" />
+        <activity android:name=".UpdateInfoActivity"   android:exported="false" /> <!-- FileProvider configuration -->
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileprovider"
@@ -37,6 +44,6 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_paths" />
         </provider>
-
     </application>
+
 </manifest>
