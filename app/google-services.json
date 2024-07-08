@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496123239287",
+    "project_id": "bean-7ded7",
+    "storage_bucket": "bean-7ded7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496123239287:android:c8652a50b0d9bdaa4e1f72",
+        "android_client_info": {
+          "package_name": "com.example.beansdeseasesdetector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUikWmcA6e-hf6RBPu77W8mh_d0a5g3MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
